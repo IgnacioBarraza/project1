@@ -1,0 +1,78 @@
+h1
+{
+    background-image: url("C:\\Users\\ignac\\Desktop\\Full Stack Develeopment\\DevProject\\resources\\pattern.jpg");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.brush h2
+{
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brush h3,
+.brush p
+{
+    font-family: Helvetica;
+    text-align: left;
+}
+
+.brush strong
+{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames h2
+{
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frames h3,
+.frames p
+{
+    font-family: Helvetica;
+    text-align: left;
+}
+
+.frames strong
+{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.paint h2
+{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint h3,
+.paint p
+{
+    font-family: Helvetica;
+    text-align: left;
+}
+
+.paint strong
+{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
